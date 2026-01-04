@@ -1,0 +1,16 @@
+# Data Manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Modeling
+scikit-learn
+scipy
+joblib
+
+# Optional / Advanced Analytics
+xgboost
+shap
